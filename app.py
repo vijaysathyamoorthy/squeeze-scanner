@@ -149,7 +149,3 @@ if run:
             )
 
     st.caption("⚠️ Not financial advice. Always do your own research before trading.")
-
-streamlit
-yfinance
-anthropic
