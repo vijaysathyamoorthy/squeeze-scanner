@@ -149,10 +149,7 @@ if run:
             )
 
     st.caption("⚠️ Not financial advice. Always do your own research before trading.")
-```
 
-6. Add a second file — click **Add file → Create new file**, name it `requirements.txt`, and paste:
-```
 streamlit
 yfinance
 anthropic
